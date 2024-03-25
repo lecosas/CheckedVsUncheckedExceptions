@@ -1,4 +1,4 @@
-# Checked Vs Unchecked Exceptions
+# Checked Vs. Unchecked Exceptions
 
 Projeto utilizado para auxiliar o vídeo tutorial [[JAVA] - Checked Vs. Unchecked Exceptions na prática](https://youtu.be/mYnbpnGqqNk) para o canal [Backend Science](https://www.youtube.com/channel/UCrU-MgHLA_KoOri4n5o_LXA).
 
